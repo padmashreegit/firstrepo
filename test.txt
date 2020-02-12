@@ -1,1 +1,2 @@
-adding a new line in this file
+In this demo we are understanding about recursive merge when changes are done to the master branch while working with multiple branches while merging it will not be about Fast-forwarded.
+We are going to create a conflict by chnaging data in this file.
